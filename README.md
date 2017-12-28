@@ -37,3 +37,7 @@ Which is my another addition: auto-updating fiat currencies, if your national cu
 Although you can laugh that I launched a repo for an Excel table, but my future commercial pilot training highly under financed right now, so donations are welcome!
 
 **ETH:** 0x9d9c860158d6f4AE0696c9783A7B9d8d85206Cee
+
+**BTC:** 13nE3VP2L9mthVcj3o6cSsV2745HGEaEsG
+
+**DOGE:** DEoPGWAqFF986yK6MwJLv71fVoNFHFSfPw
