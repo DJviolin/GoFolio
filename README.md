@@ -19,7 +19,7 @@ Which is my another addition: auto-updating fiat currencies, if your national cu
 * Make sure that the Decimal separator is set to dot (.) rather then comma (,), otherwise the formulas not work. You can set it in `File -> Options -> Advanced` window and uncheck `Use system separators` and set `Decimal separator` to `.`.
 * All formulas written in their english form. If some formulas not work, install english language pack.
 
-## Usage:
+## Usage
 
 1. Set your national currency at `Info` table in `B1` cell.
 2. In the `Portfolio` table, rename the wallet/exchange headers to the ones you use. Feel free to delete or add new columns.
@@ -27,7 +27,7 @@ Which is my another addition: auto-updating fiat currencies, if your national cu
 4. If a coin is not included, duplicate a coin line, then change the name in column `A` and enter your values in the wallets. One thing to note that the name needs to match with the one in `Ticker` table with `Coin.symbol` column. Otherwise formulas not gonna work.
 5. Final step: watch your money burns (in 1 minute intervals)...
 
-## TODO:
+## TODO
 
 * Implement [CrytoCompare](https://www.cryptocompare.com/api) API and test against CoinMarketCap.
 * After CoinMarketCap releasing the historical API, implement growth rate
