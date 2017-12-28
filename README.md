@@ -8,7 +8,7 @@ The origin of the spreadsheet was in [this](https://www.reddit.com/r/ethtrader/c
 
 I achieved this simplified table structure with the help of [INDEX & MATCH](https://www.ablebits.com/office-addins-blog/2014/08/13/excel-index-match-function-vlookup/) formulas.
 
-My modification only requires two API requests: one for [CoinMarketCap](https://coinmarketcap.com/api/) (every minute) and one for the [European Central bank](http://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/index.en.html) (60 minute).
+My modification only requires two API requests: one for [CoinMarketCap](https://coinmarketcap.com/api/) (every minute) and one for the [European Central Bank](http://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/index.en.html) (60 minute).
 
 Which is my another addition: auto-updating fiat currencies, if your national currency different then USD. Right now, only European Union currencies supported.
 
