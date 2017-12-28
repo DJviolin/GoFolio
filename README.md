@@ -4,7 +4,7 @@ Your personal cryptocurreny portfolio, no more spying in what you have!
 
 ## Motivation:
 
-The origin of [this](https://www.reddit.com/r/ethtrader/comments/6b16fk/how_to_import_coinmarketcap_data_into_excel_and/) spreadsheet was in this subreddit. This example creating new API requests for every coin. If you have a dozen coin to watch and you working in the spreadsheet, this means every 1 minute your spreadsheet is blocked for 5-10 seconds until flashing through every API request and it's highly annoying.
+The origin of the spreadsheet was in [this](https://www.reddit.com/r/ethtrader/comments/6b16fk/how_to_import_coinmarketcap_data_into_excel_and/) subreddit. This example creating new API requests for every coin. If you have a dozen coin to watch and you working in the spreadsheet, this means every 1 minute your spreadsheet is blocked for 5-10 seconds until flashing through every API request and it's highly annoying.
 
 I achieved this simplified table structure with the help of [INDEX & MATCH](https://www.ablebits.com/office-addins-blog/2014/08/13/excel-index-match-function-vlookup/) formulas.
 
