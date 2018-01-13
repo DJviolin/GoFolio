@@ -1,3 +1,12 @@
+1.0.4 / 2018-01-13
+==================
+
+  * CoinMarketCap API had a massive slowdown in response times in the last weeks. I had to drop every query strings from url except `?limit=0` which seems like fixing the `DataSource.Error` most of the time.
+  * Re-design
+  * New table columns
+  * Now you can specifiy your initial investments in `Info` table.
+  * Colored price changes columns at -5%, 0, 20% via Conditional Formatting.
+
 1.0.3 / 2017-12-28
 ==================
 
