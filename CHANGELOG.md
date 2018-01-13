@@ -1,7 +1,7 @@
 1.0.6 / 2018-01-13
 ==================
 
-  * New columns: `Price IF total supply $` shows what the price will be if Total Supply kicks in immediately. `Price IF max supply $` shows what the price will be Max Supply kicks in. Read about what are Circulating, Max, Total supply is on [CoinMarketCap FAQ](https://coinmarketcap.com/faq/). `Unreleased coins %` shows the coins that's not released at all right now (eg. keeping for scheduled release or themselves, because it's a stupid scam).
+  * New columns: `Price IF total supply $` shows what the price will be if Total Supply kicks in immediately. `Price IF max supply $` shows what the price will be if Max Supply kicks in. Read about what are Circulating, Max, Total supply is on [CoinMarketCap FAQ](https://coinmarketcap.com/faq/). `Unreleased coins %` shows the coins that's not released at all right now (eg. keeping for scheduled release or themselves, because it's a stupid scam).
 
 1.0.5 / 2018-01-13
 ==================
