@@ -1,3 +1,8 @@
+1.0.5 / 2018-01-13
+==================
+
+  * Green cells means in `Portfolio` and `Info` tables that you should edit it.
+
 1.0.4 / 2018-01-13
 ==================
 
